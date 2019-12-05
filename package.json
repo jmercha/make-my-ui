@@ -1,5 +1,6 @@
 {
   "license": "MIT",
+  "version": "0.0.1",
   "scripts": {
     "start": "start-storybook -s ./ -p 6006",
     "build": "build-storybook -o docs && touch docs/.nojekyll"
